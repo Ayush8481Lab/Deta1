@@ -1,119 +1,91 @@
 #EXTM3U
 
-# ============== SERIAL (GEC) ==============
-#EXTINF:-1 tvg-logo="https://i.imgur.com/32W50Y6.png" group-title="Serial",&TV (1080p)
-https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6JTb3cd.png" group-title="Serial",Dangal TV
-https://live-dangal.akamaized.net/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6ChpxLy.png" group-title="Serial",Dabangg
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-dabanggin-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UNNcOef.png" group-title="Serial",Shemaroo TV
-https://cdn-3.pishow.tv/live/230/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W5YlC2v.png" group-title="Serial",Ishara TV
-https://epiconvh.akamaized.net/live/ishaara/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.epicon.in/img/nazara-logo.png" group-title="Serial",Nazara
-https://epiconvh.akamaized.net/live/nazara/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h1Ofnon.png" group-title="Serial",Epic TV
-https://epiconvh.akamaized.net/live/epic/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YvAAgPo.png" group-title="Serial",Manoranjan TV
-https://cdn-1.pishow.tv/live/1013/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MohlE5B.png" group-title="Serial",DD National HD
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4tfUIEo.png" group-title="Serial",DD Bharati
-https://cdn-1.pishow.tv/live/10/master.m3u8
-
-# ============== MOVIE ==============
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/%26flix_2025.svg/512px-%26flix_2025.svg.png" group-title="Movie",&flix
+# --- MOVIES ---
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/%26flix_2025.svg/512px-%26flix_2025.svg.png" tvg-name="&flix (480p)" group-title="Movies",&flix (480p)
 https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Zee_Cinema_2025.svg/512px-Zee_Cinema_2025.svg.png" group-title="Movie",Zee Cinema
-https://amg17931-zee-amg17931c5-samsung-au-8873.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://framerusercontent.com/images/mqfJ18x4jYe0GbZUbxSHsbnWU.png" group-title="Movie",Zee Bollymovies
-https://amg17931-zee-amg17931c8-samsung-th-6526.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M9kMFJl.png" group-title="Movie",B4U Movies India
-https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CKLn0ft.png" group-title="Movie",B4U Kadak
-https://cdnb4u.wiseplayout.com/B4U_Kadak/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NwOQUDp.png" group-title="Movie",B4U Bhojpuri
-https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/Filamchi-Bhojpuri_Tagline.jpg" group-title="Movie",Filamchi Bhojpuri
-https://epiconvh.akamaized.net/live/filamchi/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ABxIO7r.jpg" group-title="Movie",Bhojpuri Cinema
-https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LnVgKVF.png" group-title="Movie",Abzy Movies
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/db8d4eca72d64748a00d0631debf542d/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5ORC4tn.png" group-title="Movie",Abzy Dhakad
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5ORC4tn.png" tvg-name="Abzy Dhakad (480p)" group-title="Movies",Abzy Dhakad (480p)
 https://d2lk5u59tns74c.cloudfront.net/out/v1/4fe6ab07a13543d6bdb2ec63b3e2df44/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSutWZzQySLPpaZvaSHq1SnpV0dXNSFZimyag&s" group-title="Movie",Shemaroo Josh
-https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oTBVML2.png" group-title="Movie",Manoranjan Movies
-https://cdn-2.pishow.tv/live/228/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qfMEz78.png" group-title="Movie",Manoranjan Grand
-https://cdn-1.pishow.tv/live/1011/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kUg6WSk.jpeg" group-title="Movie",ZB Cinema
-https://server.zillarbarta.com/ZBCINEMA/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LnVgKVF.png" tvg-name="Abzy Movies (480p)" group-title="Movies",Abzy Movies (480p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/db8d4eca72d64748a00d0631debf542d/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CKLn0ft.png" tvg-name="B4U Kadak (1080p)" group-title="Movies",B4U Kadak (1080p)
+https://cdnb4u.wiseplayout.com/B4U_Kadak/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M9kMFJl.png" tvg-name="B4U Movies India (1080p)" group-title="Movies",B4U Movies India (1080p)
+https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Zee_Cinema_2025.svg/512px-Zee_Cinema_2025.svg.png" tvg-name="Zee Cinema (1080p)" group-title="Movies",Zee Cinema (1080p)
+https://amg17931-zee-amg17931c5-samsung-au-8873.playouts.now.amagi.tv/playlist.m3u8
 
-# ============== CARTOON (KIDS) ==============
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Bvbf9o7.png" group-title="Cartoon",Gubbare
-https://epiconvh.akamaized.net/live/gubbare/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Animax.png/512px-Animax.png" group-title="Cartoon",Animax
-https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BbFNpMr.jpeg" group-title="Cartoon",ZB Cartoon
-https://server.zillarbarta.com/zbcatun/video.m3u8
-
-# ============== NEWS ==============
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RpIdCB3.png" group-title="News",Aaj Tak
+# --- NEWS ---
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RpIdCB3.png" tvg-name="Aaj Tak (1080p)" group-title="News",Aaj Tak (1080p)
 https://livehub-voidnet.onrender.com/cluster/streamcore/in/AAJTAK_REDIS.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Zee_news.svg/512px-Zee_news.svg.png" group-title="News",Zee News
-https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/ABP_News_logo.svg/512px-ABP_News_logo.svg.png" group-title="News",ABP News
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/ABP_News_logo.svg/512px-ABP_News_logo.svg.png" tvg-name="ABP News (1080p)" group-title="News",ABP News (1080p)
 https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/abpnews-livetv/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ztn2IR8.png" group-title="News",India TV
-https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NEAoh6O.png" group-title="News",Republic Bharat
-https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-275673/main.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K9KX8un.png" group-title="News",Republic TV
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2e31d831f08640ff92f65003bdc89991/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GEqUslW.png" group-title="News",TV9 Bharatvarsh
-https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PyDjUZB.png" group-title="News",NDTV India
-https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/NDTV_247.svg/512px-NDTV_247.svg.png" group-title="News",NDTV 24x7
-https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/H4f9R7n.png" group-title="News",DD News
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Zee_Bharat_2025.svg/512px-Zee_Bharat_2025.svg.png" group-title="News",Zee Bharat
-https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeehindustan/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/96bbab12-582e-4540-af70-510ab6824581/main.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9xeIWqm.png" group-title="News",News Nation
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/x72O77X.png" group-title="News",News 24
-https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jx1OX9N.png" group-title="News",Bharat24
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jx1OX9N.png" tvg-name="Bharat24 (1080p)" group-title="News",Bharat24 (1080p)
 https://cdn.ottlive.co.in/bharat24/index.fmp4.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iMzUrb9.png" group-title="News",Good News Today
-https://aajtaklive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3196cced-ce29-4219-9809-f07ccdaa02b9/vglive-sk-848805/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vkWBtL4.png" group-title="News",Zee Business
-https://dwby15d04agvq.cloudfront.net/index_1.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/CNBC_TV18.png" group-title="News",CNBC TV18
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cnbc-tv18/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/C6QK1LB.png" group-title="News",Times Now
-https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/timesnow/timesnow_master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AJpMZIv.png" group-title="News",ET Now Swadesh
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H4f9R7n.png" tvg-name="DD News (1080p)" group-title="News",DD News (1080p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AJpMZIv.png" tvg-name="ET Now Swadesh (720p)" group-title="News",ET Now Swadesh (720p)
 https://d32gxr3r1ksq2p.cloudfront.net/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/ABP_Ganga.svg/512px-ABP_Ganga.svg.png" group-title="News",ABP Ganga
-https://abplivetv.akamaized.net/hls/live/2043013/ganga/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/ABP_Asmita_logo.svg/512px-ABP_Asmita_logo.svg.png" group-title="News",ABP Asmita
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-asmita/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ABP_Sanjha_logo.svg/512px-ABP_Sanjha_logo.svg.png" group-title="News",ABP Sanjha
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-sanjha/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jeBUXYz.png" group-title="News",Zee Delhi NCR Haryana
-https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeedelhincr/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/cc483a15-1b39-4642-872d-5d08d362ed01/main.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h4UehKC.png" group-title="News",Sadhna Plus News
-https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhananewstv/live.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OvSc7dc.png" group-title="News",News Live
-https://5b48d7e1b4bce.streamlock.net/myapp/newslive/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ni8pZLF.png" group-title="News",VTV News
-https://5b48d7e1b4bce.streamlock.net/myapp/vtvlive/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zIXsuC2.png" group-title="News",CD News
-https://5a1178b42cc03.streamlock.net/8174/8174/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4ss0KfA.png" group-title="News",CCV
-https://5a1178b42cc03.streamlock.net/8212/8212/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iMzUrb9.png" tvg-name="Good News Today (720p)" group-title="News",Good News Today (720p)
+https://aajtaklive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3196cced-ce29-4219-9809-f07ccdaa02b9/vglive-sk-848805/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l54AGtz.png" tvg-name="India News (1080p)" group-title="News",India News (1080p)
+https://newsxott.in/hls/indianewsnational.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ztn2IR8.png" tvg-name="India TV (720p)" group-title="News",India TV (720p)
+https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LeBL7ML.png" tvg-name="K News India (1080p)" group-title="News",K News India (1080p)
+https://knews.livebox.co.in/youtubehls/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x72O77X.png" tvg-name="News 24 (720p)" group-title="News",News 24 (720p)
+https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9xeIWqm.png" tvg-name="News Nation (1080p)" group-title="News",News Nation (1080p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7AV1VI9.png" tvg-name="Sudarshan News (1080p)" group-title="News",Sudarshan News (1080p)
+https://ott.livelegitpro.in/sudarshannews/sudarshannews/tracks-v1/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kSCozXg.png" tvg-name="Times Now Navbharat (1080p)" group-title="News",Times Now Navbharat (1080p)
+https://amg01448-samsungin-tinnavbharat-samsungin-ad-m8.amagi.tv/playlist/amg01448-samsungin-tinnavbharat-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GEqUslW.png" tvg-name="TV9 Bharatvarsh (720p)" group-title="News",TV9 Bharatvarsh (720p)
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Zee_news.svg/512px-Zee_news.svg.png" tvg-name="Zee News (1080p)" group-title="News",Zee News (1080p)
+https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Zee_Bharat_2025.svg/512px-Zee_Bharat_2025.svg.png" tvg-name="Zee Bharat (720p)" group-title="News",Zee Bharat (720p)
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeehindustan/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/96bbab12-582e-4540-af70-510ab6824581/main.m3u8
+
+# --- SERIAL ---
+#EXTINF:-1 tvg-logo="https://i.imgur.com/32W50Y6.png" tvg-name="&TV (1080p)" group-title="Serial",&TV (1080p)
+https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6JTb3cd.png" tvg-name="Dangal TV (720p)" group-title="Serial",Dangal TV (720p)
+https://live-dangal.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MohlE5B.png" tvg-name="DD National HD (1080p)" group-title="Serial",DD National HD (1080p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h1Ofnon.png" tvg-name="Epic TV (1080p)" group-title="Serial",Epic TV (1080p)
+https://epiconvh.akamaized.net/live/epic/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W5YlC2v.png" tvg-name="Ishara TV (1080p)" group-title="Serial",Ishara TV (1080p)
+https://epiconvh.akamaized.net/live/ishaara/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.epicon.in/img/nazara-logo.png" tvg-name="Nazara (1080p)" group-title="Serial",Nazara (1080p)
+https://epiconvh.akamaized.net/live/nazara/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UNNcOef.png" tvg-name="Shemaroo TV (720p)" group-title="Serial",Shemaroo TV (720p)
+https://cdn-3.pishow.tv/live/230/master.m3u8
+
+# --- CARTOON ---
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bvbf9o7.png" tvg-name="Gubbare (1080p)" group-title="Cartoon",Gubbare (1080p)
+https://epiconvh.akamaized.net/live/gubbare/master.m3u8
+
+# --- UNDEFINED ---
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IqgrV92.png" tvg-name="Aastha (480p)" group-title="Undefined",Aastha (480p)
+https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/chunklist_b1328000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LyDxqnF.png" tvg-name="Aastha Bhajan (480p)" group-title="Undefined",Aastha Bhajan (480p)
+https://aasthaott.akamaized.net/110923/smil:bhajan.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qubgOi5.png" tvg-name="9X Jalwa (1080p)" group-title="Undefined",9X Jalwa (1080p)
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F17QtN2.png" tvg-name="9XM (576p)" group-title="Undefined",9XM (576p)
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/23886666-8fc5-470f-aab1-bd637ed607b1/3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KSxPLJA.png" tvg-name="B4U Music (1080p)" group-title="Undefined",B4U Music (1080p)
+https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lxgXHx4.png" tvg-name="Mastiii (1080p)" group-title="Undefined",Mastiii (1080p)
+https://sablive-ddpb.akamaized.net/mastii/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SDkiMvR.png" tvg-name="Sanskar TV (1080p)" group-title="Undefined",Sanskar TV (1080p)
+https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jnsaMrJ.png" tvg-name="Satsang TV (1080p)" group-title="Undefined",Satsang TV (1080p)
+https://d2vfwvjxwtwq1t.cloudfront.net/out/v1/6b24239d5517495b986e7705490c6e65/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zm4Fhah.png" tvg-name="ShowBox" group-title="Undefined",ShowBox
+https://epiconvh.akamaized.net/live/showbox/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kcDJ4g0.png" tvg-name="Zoom Global (720p)" group-title="Undefined",Zoom Global (720p)
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom-tv/master.m3u8
