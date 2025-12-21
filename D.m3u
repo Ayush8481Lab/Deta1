@@ -76,28 +76,28 @@ https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8
 https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Zee_Bharat_2025.svg/512px-Zee_Bharat_2025.svg.png" tvg-name="Zee Bharat (720p)" group-title="News",Zee Bharat (720p)
 https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeehindustan/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/96bbab12-582e-4540-af70-510ab6824581/main.m3u8
-#EXTINF:-1 tvg-name="Republic TV Bharat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Republic_TV_Bharat_logo.png" group-title="Hindi News",Republic TV Bharat
+#EXTINF:-1 tvg-name="Republic TV Bharat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Republic_TV_Bharat_logo.png" group-title="News",Republic TV Bharat
 https://tvsen6.aynaott.com/RepublicTVBharat/index.m3u8
 
-#EXTINF:-1 tvg-name="Republic TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Republic_TV_logo.png" group-title="Hindi News",Republic TV
+#EXTINF:-1 tvg-name="Republic TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Republic_TV_logo.png" group-title="News",Republic TV
 https://tvsen5.aynaott.com/REPUBLIC_TV/index.m3u8
 
-#EXTINF:-1 tvg-name="TV9 Bharatvarsh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/TV9_Bharatvarsh_Logo.png" group-title="Hindi News",TV9 Bharatvarsh
+#EXTINF:-1 tvg-name="TV9 Bharatvarsh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/TV9_Bharatvarsh_Logo.png" group-title="News",TV9 Bharatvarsh
 https://tvsen5.aynaott.com/TV9Bharatvarsh/index.m3u8
 
-#EXTINF:-1 tvg-name="News 24" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/91/News_24_logo.png" group-title="Hindi News",News 24
+#EXTINF:-1 tvg-name="News 24" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/91/News_24_logo.png" group-title="News",News 24
 https://tvsen5.aynaott.com/News24/index.m3u8
 
-#EXTINF:-1 tvg-name="Bharat 24" tvg-logo="https://bharat24live.com/wp-content/uploads/2022/09/logo.png" group-title="Hindi News",Bharat 24
+#EXTINF:-1 tvg-name="Bharat 24" tvg-logo="https://bharat24live.com/wp-content/uploads/2022/09/logo.png" group-title="News",Bharat 24
 https://tvsen5.aynaott.com/Bharat24Vi/index.m3u8
 
-#EXTINF:-1 tvg-name="News India 24x7" tvg-logo="https://newsindia24x7.in/wp-content/uploads/2022/01/logo.png" group-title="Hindi News",News India 24x7
+#EXTINF:-1 tvg-name="News India 24x7" tvg-logo="https://newsindia24x7.in/wp-content/uploads/2022/01/logo.png" group-title="News",News India 24x7
 https://tvsen5.aynaott.com/NewsIndia24x7/index.m3u8
 
-#EXTINF:-1 tvg-name="E24" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/E24_logo.png" group-title="Hindi News",E24
+#EXTINF:-1 tvg-name="E24" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/E24_logo.png" group-title="News",E24
 https://tvsen6.aynaott.com/e24/index.m3u8
 
-#EXTINF:-1 tvg-name="News 1 India" tvg-logo="https://news1india.in/wp-content/uploads/2021/10/logo.png" group-title="Hindi News",News 1 India
+#EXTINF:-1 tvg-name="News 1 India" tvg-logo="https://news1india.in/wp-content/uploads/2021/10/logo.png" group-title="News",News 1 India
 https://tvsen6.aynaott.com/News1India/index.m3u8
 
 # --- SERIAL ---
