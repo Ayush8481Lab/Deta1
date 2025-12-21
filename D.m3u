@@ -13,7 +13,36 @@ https://cdnb4u.wiseplayout.com/B4U_Kadak/master.m3u8
 https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Zee_Cinema_2025.svg/512px-Zee_Cinema_2025.svg.png" tvg-name="Zee Cinema (1080p)" group-title="Movies",Zee Cinema (1080p)
 https://amg17931-zee-amg17931c5-samsung-au-8873.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Dhamaka Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/Dhamaka_Movies.png" group-title="Hindi Movies",Dhamaka Movies
+https://tvsen5.aynaott.com/DhamakaMovies/index.m3u8
 
+#EXTINF:-1 tvg-name="Goldmines" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/Goldmines_Telefilms_logo.png" group-title="Hindi Movies",Goldmines
+https://tvsen6.aynaott.com/Goldmines/index.m3u8
+
+#EXTINF:-1 tvg-name="Goldmines Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/Goldmines_Telefilms_logo.png" group-title="Hindi Movies",Goldmines Movies
+https://tvsen6.aynaott.com/GoldminesMovies/index.m3u8
+
+#EXTINF:-1 tvg-name="Dhinchaak TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/Dhinchaak_TV_logo.png" group-title="Hindi Movies",Dhinchaak TV
+https://tvsen6.aynaott.com/Dhinchaak/index.m3u8
+
+#EXTINF:-1 tvg-name="Manoranjan Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/52/Manoranjan_Movies_logo.png" group-title="Hindi Movies",Manoranjan Movies
+https://tvsen6.aynaott.com/ManoranjanMovies/index.m3u8
+############## HINDI MUSIC ##############
+
+#EXTINF:-1 tvg-name="9XM" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/63/9XM_logo.png" group-title="Hindi Music",9XM
+https://tvsen6.aynaott.com/9xm/index.m3u8
+
+#EXTINF:-1 tvg-name="9X Jalwa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3e/9X_Jalwa_logo.png" group-title="Hindi Music",9X Jalwa
+https://tvsen6.aynaott.com/9xjalwa/index.m3u8
+
+#EXTINF:-1 tvg-name="9X Tashan" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/9X_Tashan_logo.png" group-title="Hindi Music",9X Tashan
+https://tvsen6.aynaott.com/9X_Tashan/index.m3u8
+
+#EXTINF:-1 tvg-name="Music India" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2e/Music_India_logo.png" group-title="Hindi Music",Music India
+https://tvsen6.aynaott.com/MusicIndia/index.m3u8
+
+#EXTINF:-1 tvg-name="Dhoom Music" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/Dhoom_Music.png" group-title="Hindi Music",Dhoom Music
+https://tvsen6.aynaott.com/dhoom/index.m3u8
 # --- NEWS ---
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RpIdCB3.png" tvg-name="Aaj Tak (1080p)" group-title="News",Aaj Tak (1080p)
 https://livehub-voidnet.onrender.com/cluster/streamcore/in/AAJTAK_REDIS.m3u8
@@ -47,6 +76,29 @@ https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8
 https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Zee_Bharat_2025.svg/512px-Zee_Bharat_2025.svg.png" tvg-name="Zee Bharat (720p)" group-title="News",Zee Bharat (720p)
 https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeehindustan/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/96bbab12-582e-4540-af70-510ab6824581/main.m3u8
+#EXTINF:-1 tvg-name="Republic TV Bharat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Republic_TV_Bharat_logo.png" group-title="Hindi News",Republic TV Bharat
+https://tvsen6.aynaott.com/RepublicTVBharat/index.m3u8
+
+#EXTINF:-1 tvg-name="Republic TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Republic_TV_logo.png" group-title="Hindi News",Republic TV
+https://tvsen5.aynaott.com/REPUBLIC_TV/index.m3u8
+
+#EXTINF:-1 tvg-name="TV9 Bharatvarsh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/TV9_Bharatvarsh_Logo.png" group-title="Hindi News",TV9 Bharatvarsh
+https://tvsen5.aynaott.com/TV9Bharatvarsh/index.m3u8
+
+#EXTINF:-1 tvg-name="News 24" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/91/News_24_logo.png" group-title="Hindi News",News 24
+https://tvsen5.aynaott.com/News24/index.m3u8
+
+#EXTINF:-1 tvg-name="Bharat 24" tvg-logo="https://bharat24live.com/wp-content/uploads/2022/09/logo.png" group-title="Hindi News",Bharat 24
+https://tvsen5.aynaott.com/Bharat24Vi/index.m3u8
+
+#EXTINF:-1 tvg-name="News India 24x7" tvg-logo="https://newsindia24x7.in/wp-content/uploads/2022/01/logo.png" group-title="Hindi News",News India 24x7
+https://tvsen5.aynaott.com/NewsIndia24x7/index.m3u8
+
+#EXTINF:-1 tvg-name="E24" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/E24_logo.png" group-title="Hindi News",E24
+https://tvsen6.aynaott.com/e24/index.m3u8
+
+#EXTINF:-1 tvg-name="News 1 India" tvg-logo="https://news1india.in/wp-content/uploads/2021/10/logo.png" group-title="Hindi News",News 1 India
+https://tvsen6.aynaott.com/News1India/index.m3u8
 
 # --- SERIAL ---
 #EXTINF:-1 tvg-logo="https://i.imgur.com/32W50Y6.png" tvg-name="&TV (1080p)" group-title="Serial",&TV (1080p)
