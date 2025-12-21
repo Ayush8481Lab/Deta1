@@ -13,35 +13,35 @@ https://cdnb4u.wiseplayout.com/B4U_Kadak/master.m3u8
 https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Zee_Cinema_2025.svg/512px-Zee_Cinema_2025.svg.png" tvg-name="Zee Cinema (1080p)" group-title="Movies",Zee Cinema (1080p)
 https://amg17931-zee-amg17931c5-samsung-au-8873.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Dhamaka Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/Dhamaka_Movies.png" group-title="Hindi Movies",Dhamaka Movies
+#EXTINF:-1 tvg-name="Dhamaka Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/Dhamaka_Movies.png" group-title="Movies",Dhamaka Movies
 https://tvsen5.aynaott.com/DhamakaMovies/index.m3u8
 
-#EXTINF:-1 tvg-name="Goldmines" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/Goldmines_Telefilms_logo.png" group-title="Hindi Movies",Goldmines
+#EXTINF:-1 tvg-name="Goldmines" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/Goldmines_Telefilms_logo.png" group-title="Movies",Goldmines
 https://tvsen6.aynaott.com/Goldmines/index.m3u8
 
-#EXTINF:-1 tvg-name="Goldmines Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/Goldmines_Telefilms_logo.png" group-title="Hindi Movies",Goldmines Movies
+#EXTINF:-1 tvg-name="Goldmines Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/Goldmines_Telefilms_logo.png" group-title="Movies",Goldmines Movies
 https://tvsen6.aynaott.com/GoldminesMovies/index.m3u8
 
-#EXTINF:-1 tvg-name="Dhinchaak TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/Dhinchaak_TV_logo.png" group-title="Hindi Movies",Dhinchaak TV
+#EXTINF:-1 tvg-name="Dhinchaak TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/Dhinchaak_TV_logo.png" group-title="Movies",Dhinchaak TV
 https://tvsen6.aynaott.com/Dhinchaak/index.m3u8
 
-#EXTINF:-1 tvg-name="Manoranjan Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/52/Manoranjan_Movies_logo.png" group-title="Hindi Movies",Manoranjan Movies
+#EXTINF:-1 tvg-name="Manoranjan Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/52/Manoranjan_Movies_logo.png" group-title="Movies",Manoranjan Movies
 https://tvsen6.aynaott.com/ManoranjanMovies/index.m3u8
 ############## HINDI MUSIC ##############
 
-#EXTINF:-1 tvg-name="9XM" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/63/9XM_logo.png" group-title="Hindi Music",9XM
+#EXTINF:-1 tvg-name="9XM" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/63/9XM_logo.png" group-title="Music",9XM
 https://tvsen6.aynaott.com/9xm/index.m3u8
 
-#EXTINF:-1 tvg-name="9X Jalwa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3e/9X_Jalwa_logo.png" group-title="Hindi Music",9X Jalwa
+#EXTINF:-1 tvg-name="9X Jalwa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3e/9X_Jalwa_logo.png" group-title="Music",9X Jalwa
 https://tvsen6.aynaott.com/9xjalwa/index.m3u8
 
-#EXTINF:-1 tvg-name="9X Tashan" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/9X_Tashan_logo.png" group-title="Hindi Music",9X Tashan
+#EXTINF:-1 tvg-name="9X Tashan" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/9X_Tashan_logo.png" group-title="Music",9X Tashan
 https://tvsen6.aynaott.com/9X_Tashan/index.m3u8
 
-#EXTINF:-1 tvg-name="Music India" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2e/Music_India_logo.png" group-title="Hindi Music",Music India
+#EXTINF:-1 tvg-name="Music India" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2e/Music_India_logo.png" group-title="Music",Music India
 https://tvsen6.aynaott.com/MusicIndia/index.m3u8
 
-#EXTINF:-1 tvg-name="Dhoom Music" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/Dhoom_Music.png" group-title="Hindi Music",Dhoom Music
+#EXTINF:-1 tvg-name="Dhoom Music" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/Dhoom_Music.png" group-title="Music",Dhoom Music
 https://tvsen6.aynaott.com/dhoom/index.m3u8
 # --- NEWS ---
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RpIdCB3.png" tvg-name="Aaj Tak (1080p)" group-title="News",Aaj Tak (1080p)
@@ -127,19 +127,19 @@ https://epiconvh.akamaized.net/live/gubbare/master.m3u8
 https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/chunklist_b1328000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LyDxqnF.png" tvg-name="Aastha Bhajan (480p)" group-title="Undefined",Aastha Bhajan (480p)
 https://aasthaott.akamaized.net/110923/smil:bhajan.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qubgOi5.png" tvg-name="9X Jalwa (1080p)" group-title="Undefined",9X Jalwa (1080p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qubgOi5.png" tvg-name="9X Jalwa (1080p)" group-title="Music",9X Jalwa (1080p)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F17QtN2.png" tvg-name="9XM (576p)" group-title="Undefined",9XM (576p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F17QtN2.png" tvg-name="9XM (576p)" group-title="Music",9XM (576p)
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/23886666-8fc5-470f-aab1-bd637ed607b1/3.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KSxPLJA.png" tvg-name="B4U Music (1080p)" group-title="Undefined",B4U Music (1080p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KSxPLJA.png" tvg-name="B4U Music (1080p)" group-title="Music",B4U Music (1080p)
 https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lxgXHx4.png" tvg-name="Mastiii (1080p)" group-title="Undefined",Mastiii (1080p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lxgXHx4.png" tvg-name="Mastiii (1080p)" group-title="Music",Mastiii (1080p)
 https://sablive-ddpb.akamaized.net/mastii/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SDkiMvR.png" tvg-name="Sanskar TV (1080p)" group-title="Undefined",Sanskar TV (1080p)
 https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jnsaMrJ.png" tvg-name="Satsang TV (1080p)" group-title="Undefined",Satsang TV (1080p)
 https://d2vfwvjxwtwq1t.cloudfront.net/out/v1/6b24239d5517495b986e7705490c6e65/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Zm4Fhah.png" tvg-name="ShowBox" group-title="Undefined",ShowBox
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zm4Fhah.png" tvg-name="ShowBox" group-title="Music",ShowBox
 https://epiconvh.akamaized.net/live/showbox/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kcDJ4g0.png" tvg-name="Zoom Global (720p)" group-title="Undefined",Zoom Global (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kcDJ4g0.png" tvg-name="Zoom Global (720p)" group-title="Music",Zoom Global (720p)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom-tv/master.m3u8
