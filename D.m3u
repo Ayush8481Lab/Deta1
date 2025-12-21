@@ -63,6 +63,8 @@ https://epiconvh.akamaized.net/live/ishaara/master.m3u8
 https://epiconvh.akamaized.net/live/nazara/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UNNcOef.png" tvg-name="Shemaroo TV (720p)" group-title="Serial",Shemaroo TV (720p)
 https://cdn-3.pishow.tv/live/230/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Colors_TV_logo.svg" tvg-name="Colors TV (720p)" group-title="Serial",Colors TV (720p)
+https://tvsen6.aynaott.com/ColorsHD/index.m3u8
 
 # --- CARTOON ---
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Bvbf9o7.png" tvg-name="Gubbare (1080p)" group-title="Cartoon",Gubbare (1080p)
