@@ -91,6 +91,11 @@ https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca141
 https://livetv.newsx.com/itv/itvnetwork3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dQLaY5N.png" tvg-name="News State UP & UK (576p)" group-title="News",News State UP & UK (576p)
 http://202.164.50.194:8000/play/a038/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TWSZC2H.png" tvg-name="Sansad TV 1 (1080p) [Not 24/7]" group-title="News",Sansad TV 1 (1080p) [Not 24/7]
+https://hls.media.nic.in/hls/live/lstv/lstv.m3u8
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/SANSAD2_HINDI_2000_X_1125_Transpharent.png" tvg-name="Sansad TV 2 (1080p) [Not 24/7]" group-title="News",Sansad TV 2 (1080p) [Not 24/7]
+https://hls.media.nic.in/hls/live/rstv/rstv.m3u8
+
 # --- SERIAL ---
 #EXTINF:-1 tvg-logo="https://i.imgur.com/32W50Y6.png" tvg-name="&TV (1080p)" group-title="Serial",&TV (1080p)
 https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
